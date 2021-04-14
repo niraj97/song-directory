@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Music Directory</string>
+    <string name="buttonAddSong">Add Song</string>
+    <string name="Screen1textview">List of Songs</string>
+    <string name="buttonSubmit">Submit</string>
+    <string name="Screen2textview">Add Song Details Below</string>
+    <string name="textboxHintTitle">Title</string>
+    <string name="textboxHintDescription">Description</string>
+    <string name="_15">+15</string>
+    <string name="screen1_description">description</string>
+    <string name="sceen1_title">Title</string>
+    <string name="splash_logo">logo</string>
+    <string name="action_info">info</string>
+    <string name="text_myphoto">myphoto</string>
+    <string name="myName">Niraj Gupta</string>
+    <string name="more_detail">Mumbai, India</string>
+    <string name="aboutProject">About This Project</string>
+    <string name="detailAboutApp">The Project is developed using native Android on Android Studio. Backend is hosted on AWS EC2 on Ubuntu Machine. Django Server with MySQL database is used. </string>
+</resources>
